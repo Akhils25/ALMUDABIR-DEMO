@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Almudabir Demo</string>
+    <string name="all_day_market">All Day Market</string>
+    <string name="lorem_ipsem">Lorem ipsem</string>
+    <string name="tomato">Tomato</string>
+    <string name="_1_kg">1 KG</string>
+    <string name="aed_100">AED 100</string>
+    <string name="subtotal_incl_taxes">Subtotal (incl.taxes)</string>
+    <string name="aed_500">AED 500</string>
+    <string name="aed_250">AED 250</string>
+    <string name="delivery_charge">Delivery charge</string>
+    <string name="free">Free</string>
+    <string name="bill_total">Bill total</string>
+    <string name="aed_250_2">AED 250</string>
+    <string name="proceed_to_pay">Proceed to Pay</string>
 </resources>
